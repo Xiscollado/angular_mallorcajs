@@ -16,7 +16,7 @@ import { FooterComponent } from './components/common/footer/footer.component';
     AppComponent,
     //Common components
     HeaderComponent,
-    FooterComponent,
+    FooterComponent
   ],
   imports: [
     //Angular core modules
